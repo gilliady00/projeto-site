@@ -9,7 +9,7 @@
 }
 
 .body{
-    justify-content: space-between;
+    justify-content: space-around;
     flex: center;
     align-items: center;
     display: flex;
