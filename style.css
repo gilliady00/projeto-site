@@ -8,6 +8,10 @@
     display: flex;
 }
 
+.todo-corpo{
+    background-color: blue;
+}
+
 .body{
     justify-content: space-around;
     flex: center;
