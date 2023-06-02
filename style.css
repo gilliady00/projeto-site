@@ -10,5 +10,6 @@
 
 .body{
     justify-content: space-between;
-    flex: ;
+    flex: center;
+    align-items: center;
 }
