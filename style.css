@@ -5,7 +5,6 @@
     }
     
 
-
 .cabeçalho{
     margin: 0px;
     padding: 0px;
@@ -18,8 +17,6 @@
 
 
 .div-imagem-p1 {
-    background-color: #87CEFA;
-    color: black;
     justify-content: flex-end;
     align-items: center;
     text-align: center;
