@@ -22,7 +22,7 @@
 
 .div-imagem-p1 {
     background-color: #87CEFA;
-    font-size: 25px;
-    text-align: center;
-    
+    size-adjust: 15px;
+    justify-content: center;
+    align-items: flex-end;
 }
