@@ -1,12 +1,12 @@
-.titulo-corpo{
-    background-color: #000;
-    color: white;
-    text-align: center;
-    justify-content: center;
+.cabeçalho{
     margin: 0px;
     padding: 0px;
+    background-color: #FF9E9E;
     display: flex;
-}
+    align-items: center;
+    justify-content: space-between;
+    color: #FF0101;
+    }
 
 .todo-corpo{
     background-color: blue;
