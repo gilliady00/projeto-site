@@ -23,6 +23,6 @@
 .div-imagem-p1 {
     background-color: #87CEFA;
     size-adjust: 15px;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: end;
 }
