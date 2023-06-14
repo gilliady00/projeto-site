@@ -21,6 +21,7 @@ body{
     justify-content: space-between;
     align-items: center;
     text-align: center;
+    display: flex;
 }
 
 .imagem-1{
