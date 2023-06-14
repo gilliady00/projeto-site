@@ -33,4 +33,9 @@ body{
 .imagem-1{
     display: flex;
     justify-content: flex-start;
+    position: absolute;
+width: 460px;
+height: 368px;
+left: 935px;
+top: 491px;
 }
