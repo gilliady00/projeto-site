@@ -24,9 +24,9 @@ body{
 }
 
 .div-imagem-p1 {
-    justify-content: space-between;
-    align-items: center;
-    text-align: center;
+    justify-content: space-around;
+    align-items: flex-end;
+    text-align: left;
     display: flex;
     width: 20px;
 }
