@@ -16,6 +16,10 @@ body{
     color: white;
     }
 
+.opcoes{
+    display: flex;
+    justify-content: space-around;
+}
 
 .div-imagem-p1 {
     justify-content: space-between;
