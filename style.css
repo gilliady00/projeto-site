@@ -26,7 +26,7 @@ body{
 .div-imagem-p1 {
     justify-content: space-around;
     align-items: flex-end;
-    text-align: left;
+    text-align: center;
     display: flex;
 }
 
